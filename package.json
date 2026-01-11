@@ -1,0 +1,50 @@
+{
+  "name": "antdviteallthreepkgs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^6.1.0",
+    "@fortune-sheet/core": "^1.0.4",
+    "@fortune-sheet/react": "^1.0.4",
+    "@handsontable/react": "^16.2.0",
+    "@lexical/plain-text": "^0.39.0",
+    "@lexical/react": "^0.39.0",
+    "@lexical/rich-text": "^0.39.0",
+    "@lexical/utils": "^0.39.0",
+    "@silevis/reactgrid": "^4.1.17",
+    "@tiptap/extension-link": "^3.14.0",
+    "@tiptap/extension-underline": "^3.14.0",
+    "@tiptap/react": "^3.14.0",
+    "@tiptap/starter-kit": "^3.14.0",
+    "ag-grid-community": "^35.0.0",
+    "ag-grid-react": "^35.0.0",
+    "antd": "^5.8.6",
+    "compressorjs": "^1.2.1",
+    "fabric": "^7.1.0",
+    "handsontable": "^16.2.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.0.0",
+    "lexical": "^0.39.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-quill": "^2.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.2.4"
+  }
+}

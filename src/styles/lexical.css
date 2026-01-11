@@ -1,0 +1,28 @@
+/* src/styles/lexical.css */
+.lexical-paragraph {
+  margin: 0 0 15px 0;
+}
+
+.lexical-h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px 0 10px 0;
+}
+
+.lexical-h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0 10px 0;
+}
+
+.lexical-bold {
+  font-weight: bold;
+}
+
+.lexical-italic {
+  font-style: italic;
+}
+
+.lexical-underline {
+  text-decoration: underline;
+}
